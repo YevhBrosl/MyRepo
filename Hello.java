@@ -1,1 +1,1 @@
-How are things?
+Bye-bye!
