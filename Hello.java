@@ -1,1 +1,1 @@
-someNEWstring
+How are things?
